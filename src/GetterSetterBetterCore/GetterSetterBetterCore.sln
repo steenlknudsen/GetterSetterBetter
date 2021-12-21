@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetterSetterBetterCore", "GetterSetterBetterCore\GetterSetterBetterCore.csproj", "{404F2835-8EBE-496E-961D-33FA41E049E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGetterSetterBetter", "..\TestGetterSetterBetter\TestGetterSetterBetter.csproj", "{C96501EF-85CD-4802-B56B-644DF3A1FB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404F2835-8EBE-496E-961D-33FA41E049E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404F2835-8EBE-496E-961D-33FA41E049E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404F2835-8EBE-496E-961D-33FA41E049E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404F2835-8EBE-496E-961D-33FA41E049E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96501EF-85CD-4802-B56B-644DF3A1FB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96501EF-85CD-4802-B56B-644DF3A1FB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96501EF-85CD-4802-B56B-644DF3A1FB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96501EF-85CD-4802-B56B-644DF3A1FB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0A3BEA-0BB0-461E-9345-66ABFFBF49CE}
+	EndGlobalSection
+EndGlobal
